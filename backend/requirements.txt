@@ -1,0 +1,10 @@
+django
+djangorestframework
+django-filter
+django-cors-headers
+django-jsonfield
+numpy
+pillow
+opencv-python
+torch
+torchvision
